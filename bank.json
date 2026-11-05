@@ -10,7 +10,8 @@
       "neutral": "all year",
       "winter": "Nov-Mar"
     },
-    "no_fallback_to_other_class": true
+    "no_fallback_to_other_class": true,
+    "accent": "pass countries.<code>.accent to the card as accent (band stripe colour)"
   },
   "classes": [
     "power",
@@ -194,6 +195,169 @@
           "height": 1024,
           "season": "neutral",
           "alt": "flat risograph illustration of a power transmission tower over the steppe",
+          "status": "active",
+          "added": "2026-11-05"
+        }
+      ],
+      "pending": []
+    },
+    "UZ": {
+      "name": "Uzbekistan",
+      "accent": "#9881C5",
+      "images": [
+        {
+          "id": "UZ_power_01",
+          "class": "power",
+          "file": "UZ/UZ_power_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_power_01.png",
+          "sha256": "e502bcbb900132a622e4cce98c543bd3b6c1361921756d0e3f6f07fd843e1d92",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a large modernist government building on a plaza in Tashkent",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_power_02",
+          "class": "power",
+          "file": "UZ/UZ_power_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_power_02.png",
+          "sha256": "b13f325c343a5aec2a0e868a7129fecbfa685b0fc04689a4d812ad322790a9a0",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a regional administration building with an arched portal, mountains behind",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_money_01",
+          "class": "money",
+          "file": "UZ/UZ_money_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_money_01.png",
+          "sha256": "5ad715d6b26c31152734820c620c371a2a33ac41a74e8ce30dec4ab04a604051",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a bank tower with an arched crown against a night sky",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_oilgas_01",
+          "class": "oilgas",
+          "file": "UZ/UZ_oilgas_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_oilgas_01.png",
+          "sha256": "33afea2cf0a1f9a5f9d4b0e20151e1a152b9394ac314b8e5a79e29b0bbe1b5cf",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a gas processing column and a pipeline in the desert",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_mining_01",
+          "class": "mining",
+          "file": "UZ/UZ_mining_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_mining_01.png",
+          "sha256": "63db1bcbe753ee8f3953ed581cccc6ad37593c24db6e9f0fed3790c2c49f82ba",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a giant mining dump truck seen from below, mountains behind",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_transport_01",
+          "class": "transport",
+          "file": "UZ/UZ_transport_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_transport_01.png",
+          "sha256": "a0ee106490eb0c781eb51dcf81afac5b97d6f558342ecba05d0e5a7a0fb04ec7",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a railway tunnel portal in the mountains of Uzbekistan",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_transport_02",
+          "class": "transport",
+          "file": "UZ/UZ_transport_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_transport_02.png",
+          "sha256": "661e1250d2ffe5f42cb82e2a61fce2f47832616e33be18fd34da0bf8725bb569",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a locomotive crossing a long railway bridge over a wide river",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_diplomacy_01",
+          "class": "diplomacy",
+          "file": "UZ/UZ_diplomacy_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_diplomacy_01.png",
+          "sha256": "f68128339098b80a40277a8bf99f0dce552361c2caf915adc4b8ca5b7dadb9be",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a congress hall with pointed arched windows at night",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_society_01",
+          "class": "society",
+          "file": "UZ/UZ_society_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_society_01.png",
+          "sha256": "ead88b8def6fd387952cdce44699e35255e0b559af90170a60c8390c119128e5",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the domed Chorsu bazaar building in Tashkent",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_society_02",
+          "class": "society",
+          "file": "UZ/UZ_society_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_society_02.png",
+          "sha256": "61e8cbbf97e9cafae4b55a4524b684d70f52bdfc6355c112a02fe45142073dca",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of an apartment block facade behind a deep concrete sun-screen grid",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_agri_01",
+          "class": "agri",
+          "file": "UZ/UZ_agri_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_agri_01.png",
+          "sha256": "02dffb75ccbe1338c42da7e37cbe20315738f1081001ec927e60212328e98636",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of an irrigation canal between fields and poplars, seen from above",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "UZ_industry_01",
+          "class": "industry",
+          "file": "UZ/UZ_industry_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_industry_01.png",
+          "sha256": "b67dba65b237d2c3a33d32d5be2844f524321bc2e67eb1e60c8c428310c24529",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a row of solar panels in the desert",
           "status": "active",
           "added": "2026-11-05"
         }
