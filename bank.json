@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "updated": "2026-11-05",
+  "style": "G-risograph",
+  "rules": {
+    "min_days_between_uses": 28,
+    "once_per_week": true,
+    "pick": "least recently used within country+class",
+    "seasons": {
+      "neutral": "all year",
+      "winter": "Nov-Mar"
+    },
+    "no_fallback_to_other_class": true
+  },
+  "classes": [
+    "power",
+    "money",
+    "oilgas",
+    "mining",
+    "transport",
+    "diplomacy",
+    "society",
+    "agri",
+    "industry"
+  ],
+  "countries": {
+    "KZ": {
+      "name": "Kazakhstan",
+      "accent": "#3A9C9C",
+      "images": [
+        {
+          "id": "KZ_power_02",
+          "class": "power",
+          "file": "KZ/KZ_power_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_power_02.png",
+          "sha256": "2aa8d2924a0bedde1e0d69026986575b6b21d27338ca2470b6a181081d1e24b8",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a regional administration building with a portico, mountains behind",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_power_03",
+          "class": "power",
+          "file": "KZ/KZ_power_03.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_power_03.png",
+          "sha256": "b2673a766f43f7a5df3859d12bf7693f627ef9934070ac989609c80e4e341407",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a long modernist administration building below low hills",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_money_01",
+          "class": "money",
+          "file": "KZ/KZ_money_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_money_01.png",
+          "sha256": "6c479be5022ecf27b01be1e5502586fdfd5c9fe5a625edeb68793f55c23a4159",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a curved glass office tower with snowy mountains behind",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_oilgas_02",
+          "class": "oilgas",
+          "file": "KZ/KZ_oilgas_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_oilgas_02.png",
+          "sha256": "004557da11308d1a577d621f876d32220d8b94c96b461440fa49d81c88d89a21",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a spherical gas tank in the desert below chalk cliffs",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_mining_01",
+          "class": "mining",
+          "file": "KZ/KZ_mining_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_mining_01.png",
+          "sha256": "9c1459d38b5366c2187a01ff2acdeb8ea47e903f4e3894b2eff4f7ec33a720ef",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of an open-pit mine in the steppe with a lone dump truck",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_transport_01",
+          "class": "transport",
+          "file": "KZ/KZ_transport_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_transport_01.png",
+          "sha256": "1743437e7d37604fbac6c13964daeaeb03e3753717d9abc803a8a46eaa368576",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a gantry crane lifting a container over railway tracks",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_society_02",
+          "class": "society",
+          "file": "KZ/KZ_society_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_society_02.png",
+          "sha256": "7dae469e719178538de3c6bbedb2df501f4f4f4221dadffc9f6e46a92a5ff9c4",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a Soviet-era apartment block by the Caspian Sea",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_society_03",
+          "class": "society",
+          "file": "KZ/KZ_society_03.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_society_03.png",
+          "sha256": "454e4ca44ecfc9a665016f178247d350093b63d05ef013a7c1d979c04c16f571",
+          "width": 1536,
+          "height": 1024,
+          "season": "winter",
+          "alt": "flat risograph illustration of a market stall with vegetables under a turquoise awning",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_agri_01",
+          "class": "agri",
+          "file": "KZ/KZ_agri_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_agri_01.png",
+          "sha256": "0395195c9c2a10d786ce4003d7e6bf102be79f2a03dbe39e9b3e2336994f3a75",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of an irrigation canal gate among fields and poplars",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_industry_01",
+          "class": "industry",
+          "file": "KZ/KZ_industry_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_industry_01.png",
+          "sha256": "d14d673ca0b7baecd7feb8a8bf636b508a0e92b0fc6ccefcb6f8a65054599002",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a power transmission tower over the steppe",
+          "status": "active",
+          "added": "2026-11-05"
+        }
+      ],
+      "pending": [
+        "KZ_power_01",
+        "KZ_diplomacy_01",
+        "KZ_transport_02"
+      ]
+    }
+  }
+}
