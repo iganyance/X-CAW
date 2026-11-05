@@ -29,6 +29,19 @@
       "accent": "#3A9C9C",
       "images": [
         {
+          "id": "KZ_power_01",
+          "class": "power",
+          "file": "KZ/KZ_power_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_power_01.png",
+          "sha256": "997d37824add1f8bb5cb9b613fcf367201c9018a4f16fc9fa01e026c9ec3c45a",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the Ak Orda presidential palace in Astana with its turquoise dome",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
           "id": "KZ_power_02",
           "class": "power",
           "file": "KZ/KZ_power_02.png",
@@ -107,6 +120,32 @@
           "added": "2026-11-05"
         },
         {
+          "id": "KZ_transport_02",
+          "class": "transport",
+          "file": "KZ/KZ_transport_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_transport_02.png",
+          "sha256": "7a1ed9db2d2119bcfecc5034647a8c8631cde1b77429a88a3f8aaf3bdd51f8ef",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a lone truck on a highway across the steppe towards snowy mountains",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
+          "id": "KZ_diplomacy_01",
+          "class": "diplomacy",
+          "file": "KZ/KZ_diplomacy_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KZ/KZ_diplomacy_01.png",
+          "sha256": "7238e8dd46af2f04acd15d15274396ef05d775ff8e63e38a770af60621bc8cd3",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the Palace of Peace and Reconciliation pyramid in Astana in light fog",
+          "status": "active",
+          "added": "2026-11-05"
+        },
+        {
           "id": "KZ_society_02",
           "class": "society",
           "file": "KZ/KZ_society_02.png",
@@ -159,11 +198,7 @@
           "added": "2026-11-05"
         }
       ],
-      "pending": [
-        "KZ_power_01",
-        "KZ_diplomacy_01",
-        "KZ_transport_02"
-      ]
+      "pending": []
     }
   }
 }
