@@ -382,6 +382,19 @@
           "added": "2026-11-09"
         },
         {
+          "id": "KG_power_02",
+          "class": "power",
+          "file": "KG/KG_power_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_power_02.png",
+          "sha256": "2bc1f2c830bfbb2b096110be73b3b0e663a8f03739d85e2148c6680d04fcea02",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a regional administration building below a mountain slope, a road in front",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
           "id": "KG_money_01",
           "class": "money",
           "file": "KG/KG_money_01.png",
@@ -512,9 +525,7 @@
           "added": "2026-11-09"
         }
       ],
-      "pending": [
-        "KG_power_02"
-      ]
+      "pending": []
     }
   }
 }
