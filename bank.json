@@ -897,6 +897,19 @@
           "added": "2026-11-09"
         },
         {
+          "id": "TM_oilgas_01",
+          "class": "oilgas",
+          "file": "TM/TM_oilgas_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/TM/TM_oilgas_01.png",
+          "sha256": "ee4e4f3c3c0f4a4a2d31e3d66663b24702d907607f271a94a543885ca2b8faa7",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a gas pipeline compressor station with large pipes and a valve in the desert",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
           "id": "TM_oilgas_02",
           "class": "oilgas",
           "file": "TM/TM_oilgas_02.png",
@@ -1001,9 +1014,7 @@
           "added": "2026-11-09"
         }
       ],
-      "pending": [
-        "TM_oilgas_01"
-      ]
+      "pending": []
     }
   }
 }
