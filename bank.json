@@ -526,6 +526,158 @@
         }
       ],
       "pending": []
+    },
+    "MN": {
+      "name": "Mongolia",
+      "accent": "#818B3E",
+      "images": [
+        {
+          "id": "MN_power_01",
+          "class": "power",
+          "file": "MN/MN_power_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_power_01.png",
+          "sha256": "62db43a27ee5d21c217838c3cfef408f95aa89f6344931d24f5781913df5910a",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the Government Palace on the central square of Ulaanbaatar",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_power_02",
+          "class": "power",
+          "file": "MN/MN_power_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_power_02.png",
+          "sha256": "ee402476139953a03bc4205ea52d0cbe498734549296c321ccaa78dcdebc0f62",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a provincial administration building with a glass dome",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_money_01",
+          "class": "money",
+          "file": "MN/MN_money_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_money_01.png",
+          "sha256": "7dc72ba5f1365dcbca46cfd4d5c5e1ac606cb11f29d618de7c8c06689f7ef0ea",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the sail-shaped Blue Sky Tower in Ulaanbaatar",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_mining_01",
+          "class": "mining",
+          "file": "MN/MN_mining_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_mining_01.png",
+          "sha256": "b5a7830cf33e806d5334309aa4b611cb6c99e02f85860eb4716e6eeb4a03f120",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a mine shaft headframe in the Gobi desert",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_transport_01",
+          "class": "transport",
+          "file": "MN/MN_transport_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_transport_01.png",
+          "sha256": "c04831e461c112e41ed52188893eebe724904e7a4f31797516104025bbed5454",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a convoy of coal trucks on a gravel road across the steppe",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_transport_02",
+          "class": "transport",
+          "file": "MN/MN_transport_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_transport_02.png",
+          "sha256": "bd7a758960fc2571ac50c93a5a868b5b9e2975406f048d686f7bbe863755b76c",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a diesel passenger train crossing the steppe",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_diplomacy_01",
+          "class": "diplomacy",
+          "file": "MN/MN_diplomacy_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_diplomacy_01.png",
+          "sha256": "0ef88f0996276b81b184210d6c3e3d7508c61de20b5d008859415b0ad81a6b3e",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of an airport terminal with an airliner at the jet bridge, mountains behind",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_society_01",
+          "class": "society",
+          "file": "MN/MN_society_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_society_01.png",
+          "sha256": "2dde134973e67d064e73271cf7d74ff5644c254abfb18d711739d1a974a4c9b1",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of Soviet-era apartment blocks in Ulaanbaatar below hills with houses",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_society_02",
+          "class": "society",
+          "file": "MN/MN_society_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_society_02.png",
+          "sha256": "fa34f4a1a8b4cc3ad09759bb4454588762357c461f31233c6c2557f5d7343346",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of covered market rows with roller shutters",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_agri_01",
+          "class": "agri",
+          "file": "MN/MN_agri_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_agri_01.png",
+          "sha256": "736b2088be5f0173ac65342defcde7c65d47819b3c5e8b45222d8509c85082a0",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of grain silos above a wheat field",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "MN_industry_01",
+          "class": "industry",
+          "file": "MN/MN_industry_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_industry_01.png",
+          "sha256": "1f51a9609dff2019148a02bba9b194bf1e7339a1d26c9dbb13108150bfaa9322",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of wind turbines on rolling hills",
+          "status": "active",
+          "added": "2026-11-09"
+        }
+      ],
+      "pending": [
+        "MN_mining_02"
+      ]
     }
   }
 }
