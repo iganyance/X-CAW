@@ -584,6 +584,19 @@
           "added": "2026-11-09"
         },
         {
+          "id": "MN_mining_02",
+          "class": "mining",
+          "file": "MN/MN_mining_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/MN/MN_mining_02.png",
+          "sha256": "8cdaebfec486b44006950a435d780e708f1ab3d13e9c8e4d8dd59f210b70daaa",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of an ore processing building on steel legs above a heap of crushed rock, hills behind",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
           "id": "MN_transport_01",
           "class": "transport",
           "file": "MN/MN_transport_01.png",
@@ -675,9 +688,7 @@
           "added": "2026-11-09"
         }
       ],
-      "pending": [
-        "MN_mining_02"
-      ]
+      "pending": []
     }
   }
 }
