@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-09",
   "style": "G-risograph",
   "rules": {
     "min_days_between_uses": 28,
@@ -363,6 +363,158 @@
         }
       ],
       "pending": []
+    },
+    "KG": {
+      "name": "Kyrgyzstan",
+      "accent": "#B95F73",
+      "images": [
+        {
+          "id": "KG_power_01",
+          "class": "power",
+          "file": "KG/KG_power_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_power_01.png",
+          "sha256": "54a88c9bec66e8a7d1dbd423571874bf685330602f9ae970e23771bc72f8a9ab",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the White House government building in Bishkek across a paved plaza",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_money_01",
+          "class": "money",
+          "file": "KG/KG_money_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_money_01.png",
+          "sha256": "61ff280a4ee995fe6e89f8a7b0430cc787e02e020a0c49ca60aab2e7993c8bef",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a modernist bank building in Bishkek under a night sky",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_mining_01",
+          "class": "mining",
+          "file": "KG/KG_mining_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_mining_01.png",
+          "sha256": "4795e01cca62b82539e4843bd2976204d2b98b7b40548b2cf32a91b9f2700559",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a covered conveyor gallery running to a processing plant below snow-capped mountains",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_transport_01",
+          "class": "transport",
+          "file": "KG/KG_transport_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_transport_01.png",
+          "sha256": "80f148a5fd4e600d1b54d71e9aebb070def114188e58abedffe00df753e9bd40",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a mountain road hairpin with a bus on the Bishkek-Osh highway",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_transport_02",
+          "class": "transport",
+          "file": "KG/KG_transport_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_transport_02.png",
+          "sha256": "5cdd41796616f28f11bd9ea31956577f7733a94d2709e4a404f72e0b88def43a",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of an excavator at a railway construction site with stacked sleepers, snowy mountains behind",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_diplomacy_01",
+          "class": "diplomacy",
+          "file": "KG/KG_diplomacy_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_diplomacy_01.png",
+          "sha256": "66d0600318627006ef40ec0313eead6de2c307186e907c9e6adeb3fecb8473b7",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a lakeside residence on Issyk-Kul with mountains across the water",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_society_01",
+          "class": "society",
+          "file": "KG/KG_society_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_society_01.png",
+          "sha256": "bacbc494404aaa59a86edf7e0e71db0eca5b527c633aedc2c902084783b0208b",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a modernist public building on a square in Bishkek",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_society_02",
+          "class": "society",
+          "file": "KG/KG_society_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_society_02.png",
+          "sha256": "b4817deeb9edafd7d33007e750039768a8322d4dce64008565a67629c88f4944",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a Bishkek apartment block with balconies, the Ala-Too range behind",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_agri_01",
+          "class": "agri",
+          "file": "KG/KG_agri_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_agri_01.png",
+          "sha256": "5ee2954fab00e3a9eca4fb92abe5dd73f626b341492fb88efc50926c0ce315a7",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a farm shed with stacked hay bales, mountains in the distance",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_industry_01",
+          "class": "industry",
+          "file": "KG/KG_industry_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_industry_01.png",
+          "sha256": "0b02202f1b5b592f5a6525818d6184d236c5e1c7c892e97790b106c892f36183",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the Toktogul hydropower dam in a mountain gorge",
+          "status": "active",
+          "added": "2026-11-09"
+        },
+        {
+          "id": "KG_industry_02",
+          "class": "industry",
+          "file": "KG/KG_industry_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/KG/KG_industry_02.png",
+          "sha256": "6d598037d83c8c8bcd09eaa44fb3e594005a5c786e320645d8b908970800dfdc",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a power transformer at an electrical substation",
+          "status": "active",
+          "added": "2026-11-09"
+        }
+      ],
+      "pending": [
+        "KG_power_02"
+      ]
     }
   }
 }
