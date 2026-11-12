@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "updated": "2026-11-12",
-  "style": "G-risograph",
+  "style": "by region: G-risograph (Central Asia, Mongolia), linocut (Caucasus)",
   "rules": {
     "min_days_between_uses": 28,
     "once_per_week": true,
@@ -1769,6 +1769,146 @@
         }
       ],
       "pending": []
+    },
+    "AZ": {
+      "name": "Azerbaijan",
+      "accent": "#8058C8",
+      "images": [
+        {
+          "id": "AZ_power_01",
+          "class": "power",
+          "file": "AZ/AZ_power_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_power_01.png",
+          "sha256": "cc4c1ad607953991024c83836cf49d825d11cc8e5be98ce59dea3f1c9c482e30",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of the Government House on Freedom Square in Baku",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_power_02",
+          "class": "power",
+          "file": "AZ/AZ_power_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_power_02.png",
+          "sha256": "35c13bdc6b71b1a12c0f50d67c8eccc38f2114f08581e0c96d4a5c4f89c383a3",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of the Milli Majlis parliament building in Baku",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_oilgas_01",
+          "class": "oilgas",
+          "file": "AZ/AZ_oilgas_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_oilgas_01.png",
+          "sha256": "39c7938147a28897f2a3232d328b9e3c3b6b12c91939fb1de4bf20e2d065ee3e",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of oil pumpjacks on the Caspian shore at Bibi-Heybat",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_oilgas_02",
+          "class": "oilgas",
+          "file": "AZ/AZ_oilgas_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_oilgas_02.png",
+          "sha256": "d4676602f9ca7e671cb5aec53d1df954ddaea749488f9e6018afcbb9c21a193d",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of the Oil Rocks trestle on piles running out to drilling platforms in the Caspian Sea",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_oilgas_03",
+          "class": "oilgas",
+          "file": "AZ/AZ_oilgas_03.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_oilgas_03.png",
+          "sha256": "adade38aca82f4459d4ad8293c9e7bc3513169ee6f28cb3846cf09ceea66769c",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of the curved SOCAR Tower in Baku",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_transport_01",
+          "class": "transport",
+          "file": "AZ/AZ_transport_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_transport_01.png",
+          "sha256": "e07f4c7e1493654c4a2f7183fbf8facccd16c24d748507411e96e4e3a1aedb38",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of a ship-to-shore container crane over a container ship at the port of Alat",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_transport_02",
+          "class": "transport",
+          "file": "AZ/AZ_transport_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_transport_02.png",
+          "sha256": "453817e7148a30e299da8b1585d5facb51e71c7fe38069bb9ce4d9143999685c",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of a diesel locomotive hauling a freight train through the foothills",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_diplomacy_01",
+          "class": "diplomacy",
+          "file": "AZ/AZ_diplomacy_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_diplomacy_01.png",
+          "sha256": "8b69ab2ce367b6b9454d387d7d461e160309060e802b4b906254444fa7482d6e",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of the wave-shaped Heydar Aliyev Center in Baku",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_society_01",
+          "class": "society",
+          "file": "AZ/AZ_society_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_society_01.png",
+          "sha256": "4094836c31893d9659b0b7aceca6a16e745a2dbabc2e739989539d9519945940",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of an old Baku courtyard with two tiers of wooden galleries",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_agri_01",
+          "class": "agri",
+          "file": "AZ/AZ_agri_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_agri_01.png",
+          "sha256": "7649238ec317f7b53190bc5d131ad9d8959bec61c4aa0238bb488356091a25f1",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of tea plantation rows on the hills of Lankaran",
+          "status": "active",
+          "added": "2026-11-12"
+        }
+      ],
+      "pending": [
+        "AZ_money_01",
+        "AZ_money_02"
+      ]
     }
   }
 }
