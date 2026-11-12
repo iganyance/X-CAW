@@ -646,12 +646,35 @@
           "alt": "flat risograph illustration of a car factory building with rows of new cars in front",
           "status": "active",
           "added": "2026-11-12"
+        },
+        {
+          "id": "UZ_oilgas_02",
+          "class": "oilgas",
+          "file": "UZ/UZ_oilgas_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_oilgas_02.png",
+          "sha256": "eba7a215b61f2b0777090add352563fbc38bf8e98c81988f7a934f7da95f00b5",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of a large gas pipeline with an expansion bend crossing a river on high supports",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "UZ_mining_02",
+          "class": "mining",
+          "file": "UZ/UZ_mining_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/UZ/UZ_mining_02.png",
+          "sha256": "7a4edb3ce0cbf8b90532b2728e31fecdcbdbc252f5a6f53a72cc725ed74abd6a",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat risograph illustration of the terraced benches of a huge open-pit gold mine with a dump truck on the haul road",
+          "status": "active",
+          "added": "2026-11-12"
         }
       ],
-      "pending": [
-        "UZ_mining_02",
-        "UZ_oilgas_02"
-      ]
+      "pending": []
     },
     "KG": {
       "name": "Kyrgyzstan",
