@@ -1903,12 +1903,35 @@
           "alt": "flat linocut illustration of tea plantation rows on the hills of Lankaran",
           "status": "active",
           "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_money_01",
+          "class": "money",
+          "file": "AZ/AZ_money_01.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_money_01.png",
+          "sha256": "d8bd3187bf5908cf1ce566fc538e39d732094ce425ea246919397180ea638788",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of an oil-boom era bank mansion with bay windows in central Baku",
+          "status": "active",
+          "added": "2026-11-12"
+        },
+        {
+          "id": "AZ_money_02",
+          "class": "money",
+          "file": "AZ/AZ_money_02.png",
+          "raw": "https://raw.githubusercontent.com/iganyance/X-CAW/main/AZ/AZ_money_02.png",
+          "sha256": "0a5c3269bf985cdc9a212693b874f923431fdb36686cbaf967c59c94c83718c0",
+          "width": 1536,
+          "height": 1024,
+          "season": "neutral",
+          "alt": "flat linocut illustration of the State Oil Fund tower in Baku against a violet sky",
+          "status": "active",
+          "added": "2026-11-12"
         }
       ],
-      "pending": [
-        "AZ_money_01",
-        "AZ_money_02"
-      ]
+      "pending": []
     }
   }
 }
